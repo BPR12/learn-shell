@@ -2,7 +2,7 @@ echo hello world
 
 echo ***** hello world *****
 
-echo "****** hello world ******"
+echo '****** hello world ******'
 #colour code syntax : echo e "\e[COLmMESSAGE\e[0m"
 #Red     - 31 - echo -e "\e[COLmMESSAGE\e[0m"
 #Green   - 32 - echo -e "\e[COLmMESSAGE\e[0m"
