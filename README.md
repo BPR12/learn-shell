@@ -1,6 +1,6 @@
 Hey
 
 Iam bpr
-okay okay
-buddy buddy
+ okay
+ buddy
 cool
