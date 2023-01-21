@@ -14,3 +14,5 @@ ADD=$((2+3))
 
 echo ADD - $ADD
 
+## Variable from the command line
+echo b - $b
