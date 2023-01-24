@@ -1,5 +1,5 @@
 
- # function declare
+# function declare
 
 example() {
   echo Iam an example function
@@ -7,4 +7,3 @@ example() {
 
 # function call
  example
- 
