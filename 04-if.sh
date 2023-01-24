@@ -3,5 +3,5 @@ if [ $a -eq 10 ]
 then
   echo a is 10
   else
-    echo a is 11
+    echo a is not 10
 fi
