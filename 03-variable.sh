@@ -17,3 +17,4 @@ echo ADD - $ADD
 ## Variable from the command line
 echo b - $b
 echo c - $c
+echo d - $d
